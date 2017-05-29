@@ -1,0 +1,12 @@
+<project>
+    <modelVersion>1.0.0</modelVersion>
+    <artifactId>loadtesting</artifactId>
+    <version>1.0</version>
+    <packaging>jar</packaging>
+
+    <parent>
+        <groupId>ru.jet_infosystems</groupId>
+        <artifactId>test</artifactId>
+        <version>1.0</version>
+    </parent>
+</project>
